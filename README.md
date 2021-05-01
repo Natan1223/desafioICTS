@@ -27,4 +27,4 @@ server/db/conexao.js
 
 
 ## License
-[MIT](https://choosealicense.com/licenses/mit/)
+[ISC](https://opensource.org/licenses/ISC)
